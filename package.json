@@ -1,0 +1,13 @@
+{
+  "name": "serverless-javaskop",
+  "version": "1.0.0",
+  "description": "Serverless demo app for javaskop 2017",
+  "dependencies": {
+    "aws-sdk": "^2.6.1",
+    "dynamodb-doc":"^1.0.0"
+  },
+  "devDependencies": {
+    "serverless-dynamodb-local": "0.2.17",
+    "serverless-offline": "git+https://github.com/dherault/serverless-offline.git"
+  }
+}
